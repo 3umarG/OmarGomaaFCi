@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omargomaafci" alt="omargomaafci" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/3umrann" target="blank"><img src="https://img.shields.io/twitter/follow/3umrann?logo=twitter&style=for-the-badge" alt="3umrann" /></a> </p>
 
 - 🔭 I’m currently studying on **FCI TU**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarGomaaFCi](https://github.com/OmarGomaaFCi)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/omar-gomaa-922a00231](www.linkedin.com/in/omar-gomaa-922a00231)
 
-- 📫 How to reach me **omargomaafcitu@gmail.com**
+- 📫 How to reach me **omargomaa.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
