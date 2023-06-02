@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Gomaa</h1>
-<h3 align="center">A passionate Student & Mobile developer from Egypt</h3>
+<h3 align="center">A passionate Student & Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargomaafci&label=Profile%20views&color=0e75b6&style=flat" alt="omargomaafci" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **FCI TU**
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently learning **Backend Development ( .NET )**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarGomaaFCi](https://github.com/OmarGomaaFCi)
 
